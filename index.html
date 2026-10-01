@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Iris Diamonds · Made to be remembered</title>
+  <meta name="description" content="A concept website for Iris Diamonds: lab-grown diamond jewelry in 18K gold from a Dubai family jeweller since 1974, with every stone published. Simulated checkout; no real orders.">
+  <meta name="theme-color" content="#F4F2F8">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="assets/fonts/bodoni-moda.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="assets/fonts/hanken-grotesk.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="assets/css/iris.css">
+  <script>
+    // home only: start the hero portrait (the LCP image) before the app renders,
+    // and stage the opening sequence unless the visitor asked for reduced motion
+    if (!location.hash || location.hash === '#/') {
+      if (!matchMedia('(prefers-reduced-motion: reduce)').matches) document.documentElement.classList.add('intro');
+      var l = document.createElement('link');
+      l.rel = 'preload'; l.as = 'image'; l.fetchPriority = 'high';
+      l.imageSrcset = 'img/2760039-b0-2-480.webp 480w, img/2760039-b0-2-960.webp 960w, img/2760039-b0-2-1600.webp 1600w';
+      l.imageSizes = '(min-width: 761px) 30vw, 60vw';
+      document.head.appendChild(l);
+    }
+  </script>
+</head>
+<body data-page="home">
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header" id="header"></header>
+  <main id="main" tabindex="-1"></main>
+  <footer class="site-footer" id="footer"></footer>
+
+  <dialog id="bag-dialog" class="sheet sheet-right" aria-labelledby="bag-title"></dialog>
+  <dialog id="menu-dialog" class="sheet sheet-left" aria-label="Menu"></dialog>
+  <dialog id="search-dialog" class="search-dialog" aria-label="Search the collection"></dialog>
+  <dialog id="zoom-dialog" class="zoom-dialog" aria-label="Enlarged photograph"></dialog>
+  <dialog id="sizing-dialog" class="sheet sheet-right" aria-label="Find your ring size"></dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <div id="announcer" class="sr-only" aria-live="polite"></div>
+
+  <noscript><p class="noscript">This concept prototype needs JavaScript. The live store is at <a href="https://www.irisdiamonds.ae/">irisdiamonds.ae</a>.</p></noscript>
+  <script src="assets/js/catalog.js"></script>
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

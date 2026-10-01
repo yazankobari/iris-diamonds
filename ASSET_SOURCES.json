@@ -1,0 +1,1652 @@
+{
+  "retrieved": "2026-10-01",
+  "owner": "IRIS DIAMONDS (irisdiamonds.ae). Official photography reused for this concept prototype for the client.",
+  "processing": "Downloaded once from the Shopify CDN at up to 2400 px and converted to WebP sizes by tools/build-catalog.py; pixels are not retouched, recoloured or composited.",
+  "logo": {
+    "file": "site/assets/iris-logo.png",
+    "source": "https://www.irisdiamonds.ae/cdn/shop/files/logo_iris.png",
+    "note": "Official logo, transparent padding trimmed only."
+  },
+  "fonts": {
+    "Bodoni Moda": "Google Fonts, SIL Open Font License",
+    "Hanken Grotesk": "Google Fonts, SIL Open Font License"
+  },
+  "images": {
+    "100g-1": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/100g_1.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-250-grams-gold-bar-llady-fortuna™-gold-minted-bar-250g-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "100g-1-1600.webp",
+        "100g-1-2400.webp",
+        "100g-1-480.webp",
+        "100g-1-960.webp"
+      ]
+    },
+    "10g-1": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/10g_1.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-20-grams-gold-bar-lady-fortuna™-gold-minted-bar-20g-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "10g-1-1600.webp",
+        "10g-1-2400.webp",
+        "10g-1-480.webp",
+        "10g-1-960.webp"
+      ]
+    },
+    "1196634-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/1196634-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/lumiere-halo-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "1196634-b0-1600.webp",
+        "1196634-b0-2400.webp",
+        "1196634-b0-480.webp",
+        "1196634-b0-960.webp"
+      ]
+    },
+    "1196634-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/1196634-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/lumiere-halo-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "1196634-b0-2-1600.webp",
+        "1196634-b0-2-2400.webp",
+        "1196634-b0-2-480.webp",
+        "1196634-b0-2-960.webp"
+      ]
+    },
+    "1284666-y0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/1284666-Y0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/bypass-diamond-halo-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "1284666-y0-1600.webp",
+        "1284666-y0-2400.webp",
+        "1284666-y0-480.webp",
+        "1284666-y0-960.webp"
+      ]
+    },
+    "1284666-y0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/1284666-Y0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/bypass-diamond-halo-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "1284666-y0-2-1600.webp",
+        "1284666-y0-2-2400.webp",
+        "1284666-y0-2-480.webp",
+        "1284666-y0-2-960.webp"
+      ]
+    },
+    "1284671-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/1284671-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/crown-royale-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "1284671-b0-1600.webp",
+        "1284671-b0-2400.webp",
+        "1284671-b0-480.webp",
+        "1284671-b0-960.webp"
+      ]
+    },
+    "1284671-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/1284671-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/crown-royale-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "1284671-b0-2-1600.webp",
+        "1284671-b0-2-2400.webp",
+        "1284671-b0-2-480.webp",
+        "1284671-b0-2-960.webp"
+      ]
+    },
+    "1570396-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/1570396-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eclat-ascendant-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "1570396-b0-1600.webp",
+        "1570396-b0-2400.webp",
+        "1570396-b0-480.webp",
+        "1570396-b0-960.webp"
+      ]
+    },
+    "1570396-b0-2-a017583d-96d9-493e-ada1-c825f954bbca": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/1570396-B0-2_a017583d-96d9-493e-ada1-c825f954bbca.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eclat-ascendant-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "1570396-b0-2-a017583d-96d9-493e-ada1-c825f954bbca-1600.webp",
+        "1570396-b0-2-a017583d-96d9-493e-ada1-c825f954bbca-2400.webp",
+        "1570396-b0-2-a017583d-96d9-493e-ada1-c825f954bbca-480.webp",
+        "1570396-b0-2-a017583d-96d9-493e-ada1-c825f954bbca-960.webp"
+      ]
+    },
+    "1760033-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/1760033-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/jardin-eclat-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "1760033-b0-2-1600.webp",
+        "1760033-b0-2-2400.webp",
+        "1760033-b0-2-480.webp",
+        "1760033-b0-2-960.webp"
+      ]
+    },
+    "1760033-b0-7a388e65-3bf0-48cb-b523-3feed015eea6": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/1760033-B0_7a388e65-3bf0-48cb-b523-3feed015eea6.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/jardin-eclat-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "1760033-b0-7a388e65-3bf0-48cb-b523-3feed015eea6-1600.webp",
+        "1760033-b0-7a388e65-3bf0-48cb-b523-3feed015eea6-2400.webp",
+        "1760033-b0-7a388e65-3bf0-48cb-b523-3feed015eea6-480.webp",
+        "1760033-b0-7a388e65-3bf0-48cb-b523-3feed015eea6-960.webp"
+      ]
+    },
+    "1760292-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/1760292-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/fleur-majeste-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "1760292-b0-1600.webp",
+        "1760292-b0-2400.webp",
+        "1760292-b0-480.webp",
+        "1760292-b0-960.webp"
+      ]
+    },
+    "1760292-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/1760292-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/fleur-majeste-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "1760292-b0-2-1600.webp",
+        "1760292-b0-2-2400.webp",
+        "1760292-b0-2-480.webp",
+        "1760292-b0-2-960.webp"
+      ]
+    },
+    "1760294-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/1760294-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/elysee-bloom-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "1760294-b0-1600.webp",
+        "1760294-b0-2400.webp",
+        "1760294-b0-480.webp",
+        "1760294-b0-960.webp"
+      ]
+    },
+    "1760294-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/1760294-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/elysee-bloom-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "1760294-b0-2-1600.webp",
+        "1760294-b0-2-2400.webp",
+        "1760294-b0-2-480.webp",
+        "1760294-b0-2-960.webp"
+      ]
+    },
+    "1g-1": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/1g_1.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-2-5-grams-gold-bar-lady-fortuna™-gold-minted-bar-2-5g-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "1g-1-1600.webp",
+        "1g-1-2400.webp",
+        "1g-1-480.webp",
+        "1g-1-960.webp"
+      ]
+    },
+    "2-5g-1": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/2_5g_1.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-10-grams-gold-bar-lady-fortuna™-gold-minted-bar-10g-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "2-5g-1-1600.webp",
+        "2-5g-1-2400.webp",
+        "2-5g-1-480.webp",
+        "2-5g-1-960.webp"
+      ]
+    },
+    "20g-1": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/20g_1.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-1-2-ounces-gold-bar-lady-fortuna™-gold-minted-bar-1-2-oz-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "20g-1-1600.webp",
+        "20g-1-2400.webp",
+        "20g-1-480.webp",
+        "20g-1-960.webp"
+      ]
+    },
+    "2760039-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/2760039-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pave-diamond-hoop-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "2760039-b0-1600.webp",
+        "2760039-b0-2400.webp",
+        "2760039-b0-480.webp",
+        "2760039-b0-960.webp"
+      ]
+    },
+    "2760039-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/2760039-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pave-diamond-hoop-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "2760039-b0-2-1600.webp",
+        "2760039-b0-2-2400.webp",
+        "2760039-b0-2-480.webp",
+        "2760039-b0-2-960.webp"
+      ]
+    },
+    "2760330-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/2760330-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/aurora-cascade-diamond-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "2760330-b0-1600.webp",
+        "2760330-b0-2400.webp",
+        "2760330-b0-480.webp",
+        "2760330-b0-960.webp"
+      ]
+    },
+    "2760330-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/2760330-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/aurora-cascade-diamond-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "2760330-b0-2-1600.webp",
+        "2760330-b0-2-2400.webp",
+        "2760330-b0-2-480.webp",
+        "2760330-b0-2-960.webp"
+      ]
+    },
+    "4371566-kb": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/4371566-KB.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/florea-diamond-pendant-necklace"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "4371566-kb-1600.webp",
+        "4371566-kb-2400.webp",
+        "4371566-kb-480.webp",
+        "4371566-kb-960.webp"
+      ]
+    },
+    "4371566-yb": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/4371566-YB.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/florea-diamond-pendant-necklace-1"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "4371566-yb-1600.webp",
+        "4371566-yb-2400.webp",
+        "4371566-yb-480.webp",
+        "4371566-yb-960.webp"
+      ]
+    },
+    "50g-1": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/50g_1.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-100-grams-gold-bar-lady-fortuna™-gold-minted-bar-100g-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "50g-1-1600.webp",
+        "50g-1-2400.webp",
+        "50g-1-480.webp",
+        "50g-1-960.webp"
+      ]
+    },
+    "5c7a7109kopyasi-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/5C7A7109kopyasi__2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/classic-diamond-tennis-bracelet"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "5c7a7109kopyasi-2-1800.webp",
+        "5c7a7109kopyasi-2-960.webp"
+      ]
+    },
+    "5c7a7161kopyasi-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/5C7A7161kopyasi__2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pave-diamond-hoop-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "5c7a7161kopyasi-2-1200.webp",
+        "5c7a7161kopyasi-2-2000.webp",
+        "5c7a7161kopyasi-2-640.webp"
+      ]
+    },
+    "5c7a7189kopyasi-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/5C7A7189kopyasi__2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pave-diamond-hoop-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "5c7a7189kopyasi-2-1200.webp",
+        "5c7a7189kopyasi-2-2000.webp",
+        "5c7a7189kopyasi-2-640.webp"
+      ]
+    },
+    "5c7a7189kopyasi-2-1b31b376-5a59-45f1-95c2-e9e4e8abaa2b": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/5C7A7189kopyasi__2_1b31b376-5a59-45f1-95c2-e9e4e8abaa2b.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/classic-diamond-tennis-bracelet"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "5c7a7189kopyasi-2-1b31b376-5a59-45f1-95c2-e9e4e8abaa2b-1200.webp",
+        "5c7a7189kopyasi-2-1b31b376-5a59-45f1-95c2-e9e4e8abaa2b-2000.webp",
+        "5c7a7189kopyasi-2-1b31b376-5a59-45f1-95c2-e9e4e8abaa2b-640.webp"
+      ]
+    },
+    "5c7a7218kopyasi-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/5C7A7218kopyasi__2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/classic-diamond-tennis-bracelet"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "5c7a7218kopyasi-2-1200.webp",
+        "5c7a7218kopyasi-2-2000.webp",
+        "5c7a7218kopyasi-2-640.webp"
+      ]
+    },
+    "5c7a7230kopyasi-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/5C7A7230kopyasi__2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/kp03449-b0"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "5c7a7230kopyasi-2-1200.webp",
+        "5c7a7230kopyasi-2-2000.webp",
+        "5c7a7230kopyasi-2-640.webp"
+      ]
+    },
+    "5c7a7230kopyasi-2-8660b0b5-6da3-445f-8172-04e99772a639": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/5C7A7230kopyasi__2_8660b0b5-6da3-445f-8172-04e99772a639.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/open-heart-diamond-pendant-necklace-on-chain"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "5c7a7230kopyasi-2-8660b0b5-6da3-445f-8172-04e99772a639-1200.webp",
+        "5c7a7230kopyasi-2-8660b0b5-6da3-445f-8172-04e99772a639-2000.webp",
+        "5c7a7230kopyasi-2-8660b0b5-6da3-445f-8172-04e99772a639-640.webp"
+      ]
+    },
+    "5c7a7262kopyasi-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/5C7A7262kopyasi__2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/teardrop-diamond-stud-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "5c7a7262kopyasi-2-1200.webp",
+        "5c7a7262kopyasi-2-2000.webp",
+        "5c7a7262kopyasi-2-640.webp"
+      ]
+    },
+    "6010189-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/6010189-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/aurelian-grace-diamond-bangle"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "6010189-b0-1600.webp",
+        "6010189-b0-2400.webp",
+        "6010189-b0-480.webp",
+        "6010189-b0-960.webp"
+      ]
+    },
+    "6010196-yb": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/6010196-YB.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/florence-royale-diamond-bangle"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "6010196-yb-1600.webp",
+        "6010196-yb-2400.webp",
+        "6010196-yb-480.webp",
+        "6010196-yb-960.webp"
+      ]
+    },
+    "6650344-kb": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/6650344-KB.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/luna-crest-diamond-bangle"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "6650344-kb-1600.webp",
+        "6650344-kb-2400.webp",
+        "6650344-kb-480.webp",
+        "6650344-kb-960.webp"
+      ]
+    },
+    "ab01683-b0-15": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/AB01683-B0-15.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/velour-line-diamond-bangle"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "ab01683-b0-15-1600.webp",
+        "ab01683-b0-15-2400.webp",
+        "ab01683-b0-15-480.webp",
+        "ab01683-b0-15-960.webp"
+      ]
+    },
+    "ab01714-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/AB01714-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eternal-radiance-diamond-bangle-1"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "ab01714-b0-1600.webp",
+        "ab01714-b0-2400.webp",
+        "ab01714-b0-480.webp",
+        "ab01714-b0-960.webp"
+      ]
+    },
+    "ab01717-y0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/AB01717-Y0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eternal-radiance-diamond-bangle"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "ab01717-y0-1600.webp",
+        "ab01717-y0-2400.webp",
+        "ab01717-y0-480.webp",
+        "ab01717-y0-960.webp"
+      ]
+    },
+    "ab01763-y0-550": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/AB01763-Y0-550.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/classic-diamond-tennis-bracelet"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "ab01763-y0-550-1600.webp",
+        "ab01763-y0-550-2400.webp",
+        "ab01763-y0-550-480.webp",
+        "ab01763-y0-550-960.webp"
+      ]
+    },
+    "ab01879-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/AB01879-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/crown-elysee-diamond-bangle"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "ab01879-b0-1600.webp",
+        "ab01879-b0-2400.webp",
+        "ab01879-b0-480.webp",
+        "ab01879-b0-960.webp"
+      ]
+    },
+    "ab01896-yb": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/AB01896-YB.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/fleur-royale-diamond-bangle"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "ab01896-yb-1600.webp",
+        "ab01896-yb-2400.webp",
+        "ab01896-yb-480.webp",
+        "ab01896-yb-960.webp"
+      ]
+    },
+    "au-05oz-revcertipamp": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/au_05oz_revcertipamp.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-1-2-ounces-gold-bar-lady-fortuna™-gold-minted-bar-1-2-oz-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "au-05oz-revcertipamp-1600.webp",
+        "au-05oz-revcertipamp-2400.webp",
+        "au-05oz-revcertipamp-480.webp",
+        "au-05oz-revcertipamp-960.webp"
+      ]
+    },
+    "au-100g-obvcertipamp-0-1": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/au_100g_obvcertipamp_0_1.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-250-grams-gold-bar-llady-fortuna™-gold-minted-bar-250g-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "au-100g-obvcertipamp-0-1-1600.webp",
+        "au-100g-obvcertipamp-0-1-2400.webp",
+        "au-100g-obvcertipamp-0-1-480.webp",
+        "au-100g-obvcertipamp-0-1-960.webp"
+      ]
+    },
+    "au-10g-obvcertipamp": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/au_10g_obvcertipamp.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-20-grams-gold-bar-lady-fortuna™-gold-minted-bar-20g-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "au-10g-obvcertipamp-1600.webp",
+        "au-10g-obvcertipamp-2400.webp",
+        "au-10g-obvcertipamp-480.webp",
+        "au-10g-obvcertipamp-960.webp"
+      ]
+    },
+    "au-10g-revcertipamp-1": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/au_10g_revcertipamp_1.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-20-grams-gold-bar-lady-fortuna™-gold-minted-bar-20g-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "au-10g-revcertipamp-1-1600.webp",
+        "au-10g-revcertipamp-1-2400.webp",
+        "au-10g-revcertipamp-1-480.webp",
+        "au-10g-revcertipamp-1-960.webp"
+      ]
+    },
+    "au-1g-obvcertipamp": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/au_1g_obvcertipamp.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-2-5-grams-gold-bar-lady-fortuna™-gold-minted-bar-2-5g-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "au-1g-obvcertipamp-1600.webp",
+        "au-1g-obvcertipamp-2400.webp",
+        "au-1g-obvcertipamp-480.webp",
+        "au-1g-obvcertipamp-960.webp"
+      ]
+    },
+    "au-1g-revcertipamp-0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/au_1g_revcertipamp_0.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-2-5-grams-gold-bar-lady-fortuna™-gold-minted-bar-2-5g-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "au-1g-revcertipamp-0-1600.webp",
+        "au-1g-revcertipamp-0-2400.webp",
+        "au-1g-revcertipamp-0-480.webp",
+        "au-1g-revcertipamp-0-960.webp"
+      ]
+    },
+    "au-1oz-obvcertipamp-carbon-neutral-2025": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/au_1oz_obvcertipamp_carbon_neutral_2025.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-10-tola-gold-bar-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "au-1oz-obvcertipamp-carbon-neutral-2025-1200.webp",
+        "au-1oz-obvcertipamp-carbon-neutral-2025-2000.webp",
+        "au-1oz-obvcertipamp-carbon-neutral-2025-640.webp"
+      ]
+    },
+    "au-2-5g-obvcertipamp": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/au_2_5g_obvcertipamp.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-10-grams-gold-bar-lady-fortuna™-gold-minted-bar-10g-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "au-2-5g-obvcertipamp-1600.webp",
+        "au-2-5g-obvcertipamp-2400.webp",
+        "au-2-5g-obvcertipamp-480.webp",
+        "au-2-5g-obvcertipamp-960.webp"
+      ]
+    },
+    "au-2-5g-revcertipamp-1": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/au_2_5g_revcertipamp_1.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-10-grams-gold-bar-lady-fortuna™-gold-minted-bar-10g-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "au-2-5g-revcertipamp-1-1600.webp",
+        "au-2-5g-revcertipamp-1-2400.webp",
+        "au-2-5g-revcertipamp-1-480.webp",
+        "au-2-5g-revcertipamp-1-960.webp"
+      ]
+    },
+    "au-20g-obvcertipamp-0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/au_20g_obvcertipamp_0.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-1-2-ounces-gold-bar-lady-fortuna™-gold-minted-bar-1-2-oz-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "au-20g-obvcertipamp-0-1600.webp",
+        "au-20g-obvcertipamp-0-2400.webp",
+        "au-20g-obvcertipamp-0-480.webp",
+        "au-20g-obvcertipamp-0-960.webp"
+      ]
+    },
+    "au-50g-obvcertipamp-0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/au_50g_obvcertipamp_0.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-100-grams-gold-bar-lady-fortuna™-gold-minted-bar-100g-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "au-50g-obvcertipamp-0-1600.webp",
+        "au-50g-obvcertipamp-0-2400.webp",
+        "au-50g-obvcertipamp-0-480.webp",
+        "au-50g-obvcertipamp-0-960.webp"
+      ]
+    },
+    "belbak-3": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/BELBAK-3.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/open-heart-diamond-pendant-necklace-on-chain"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "belbak-3-1600.webp",
+        "belbak-3-2400.webp",
+        "belbak-3-480.webp",
+        "belbak-3-960.webp"
+      ]
+    },
+    "belbak-4": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/BELBAK-4.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/round-brilliant-halo-pave-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "belbak-4-1600.webp",
+        "belbak-4-2400.webp",
+        "belbak-4-480.webp",
+        "belbak-4-960.webp"
+      ]
+    },
+    "belbak-4-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/BELBAK-4-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/round-brilliant-halo-pave-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "belbak-4-2-1600.webp",
+        "belbak-4-2-2400.webp",
+        "belbak-4-2-480.webp",
+        "belbak-4-2-960.webp"
+      ]
+    },
+    "certipamp-carbon-neutralingot-rev": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/certipamp_carbon-neutralingot_rev.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-100-grams-gold-bar-lady-fortuna™-gold-minted-bar-100g-copy",
+        "https://www.irisdiamonds.ae/products/pamp-250-grams-gold-bar-llady-fortuna™-gold-minted-bar-250g-copy",
+        "https://www.irisdiamonds.ae/products/pamp-10-tola-gold-bar-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "certipamp-carbon-neutralingot-rev-1600.webp",
+        "certipamp-carbon-neutralingot-rev-2400.webp",
+        "certipamp-carbon-neutralingot-rev-480.webp",
+        "certipamp-carbon-neutralingot-rev-960.webp"
+      ]
+    },
+    "ed-boutique": {
+      "source": "https://www.irisdiamonds.ae/cdn/shop/files/212b982a-38ad-410a-a5dc-f729df0f1559.jpg",
+      "listings": [],
+      "kind": "editorial photograph (homepage, story, guide or visit page)",
+      "files": [
+        "ed-boutique-1600.webp",
+        "ed-boutique-2400.webp",
+        "ed-boutique-960.webp"
+      ]
+    },
+    "ed-campaign-hands": {
+      "source": "https://www.irisdiamonds.ae/cdn/shop/files/5C7A7198_kopyasi__2.jpg",
+      "listings": [],
+      "kind": "editorial photograph (homepage, story, guide or visit page)",
+      "files": [
+        "ed-campaign-hands-1600.webp",
+        "ed-campaign-hands-2400.webp",
+        "ed-campaign-hands-960.webp"
+      ]
+    },
+    "ed-earrings": {
+      "source": "https://www.irisdiamonds.ae/cdn/shop/files/5C7A7189_kopyasi__2.jpg",
+      "listings": [],
+      "kind": "editorial photograph (homepage, story, guide or visit page)",
+      "files": [
+        "ed-earrings-1600.webp",
+        "ed-earrings-2400.webp",
+        "ed-earrings-960.webp"
+      ]
+    },
+    "ed-guide-carat": {
+      "source": "https://www.irisdiamonds.ae/cdn/shop/files/4.jpg",
+      "listings": [],
+      "kind": "editorial photograph (homepage, story, guide or visit page)",
+      "files": [
+        "ed-guide-carat-1600.webp",
+        "ed-guide-carat-2400.webp",
+        "ed-guide-carat-960.webp"
+      ]
+    },
+    "ed-guide-clarity": {
+      "source": "https://www.irisdiamonds.ae/cdn/shop/files/3.jpg",
+      "listings": [],
+      "kind": "editorial photograph (homepage, story, guide or visit page)",
+      "files": [
+        "ed-guide-clarity-1600.webp",
+        "ed-guide-clarity-2400.webp",
+        "ed-guide-clarity-960.webp"
+      ]
+    },
+    "ed-guide-colour": {
+      "source": "https://www.irisdiamonds.ae/cdn/shop/files/5.jpg",
+      "listings": [],
+      "kind": "editorial photograph (homepage, story, guide or visit page)",
+      "files": [
+        "ed-guide-colour-1600.webp",
+        "ed-guide-colour-2400.webp",
+        "ed-guide-colour-960.webp"
+      ]
+    },
+    "ed-guide-cut": {
+      "source": "https://www.irisdiamonds.ae/cdn/shop/files/Heart.png",
+      "listings": [],
+      "kind": "editorial photograph (homepage, story, guide or visit page)",
+      "files": [
+        "ed-guide-cut-1600.webp",
+        "ed-guide-cut-2400.webp",
+        "ed-guide-cut-960.webp"
+      ]
+    },
+    "ed-guide-heart": {
+      "source": "https://www.irisdiamonds.ae/cdn/shop/files/Heart_2.jpg",
+      "listings": [],
+      "kind": "editorial photograph (homepage, story, guide or visit page)",
+      "files": [
+        "ed-guide-heart-1600.webp",
+        "ed-guide-heart-2400.webp",
+        "ed-guide-heart-960.webp"
+      ]
+    },
+    "ed-necklaces": {
+      "source": "https://www.irisdiamonds.ae/cdn/shop/files/5C7A7249_kopyasi__2.jpg",
+      "listings": [],
+      "kind": "editorial photograph (homepage, story, guide or visit page)",
+      "files": [
+        "ed-necklaces-1600.webp",
+        "ed-necklaces-2400.webp",
+        "ed-necklaces-960.webp"
+      ]
+    },
+    "ed-portrait-2": {
+      "source": "https://www.irisdiamonds.ae/cdn/shop/files/5C7A7169_kopyasi__2.jpg",
+      "listings": [],
+      "kind": "editorial photograph (homepage, story, guide or visit page)",
+      "files": [
+        "ed-portrait-2-1600.webp",
+        "ed-portrait-2-2400.webp",
+        "ed-portrait-2-960.webp"
+      ]
+    },
+    "ed-ring-edit": {
+      "source": "https://www.irisdiamonds.ae/cdn/shop/files/5C7A7141_kopyasi__2.jpg",
+      "listings": [],
+      "kind": "editorial photograph (homepage, story, guide or visit page)",
+      "files": [
+        "ed-ring-edit-1600.webp",
+        "ed-ring-edit-2400.webp",
+        "ed-ring-edit-960.webp"
+      ]
+    },
+    "ed-story": {
+      "source": "https://www.irisdiamonds.ae/cdn/shop/files/5C7A7183_kopyasi__2.jpg",
+      "listings": [],
+      "kind": "editorial photograph (homepage, story, guide or visit page)",
+      "files": [
+        "ed-story-1600.webp",
+        "ed-story-2400.webp",
+        "ed-story-960.webp"
+      ]
+    },
+    "el05058-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/EL05058-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eternal-grace-diamond-drop-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "el05058-b0-1600.webp",
+        "el05058-b0-2400.webp",
+        "el05058-b0-480.webp",
+        "el05058-b0-960.webp"
+      ]
+    },
+    "el05058-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/EL05058-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eternal-grace-diamond-drop-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "el05058-b0-2-1600.webp",
+        "el05058-b0-2-2400.webp",
+        "el05058-b0-2-480.webp",
+        "el05058-b0-2-960.webp"
+      ]
+    },
+    "el07112-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/EL07112-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/teardrop-halo-dangle-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "el07112-b0-1600.webp",
+        "el07112-b0-2400.webp",
+        "el07112-b0-480.webp",
+        "el07112-b0-960.webp"
+      ]
+    },
+    "el07112-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/EL07112-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/teardrop-halo-dangle-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "el07112-b0-2-1600.webp",
+        "el07112-b0-2-2400.webp",
+        "el07112-b0-2-480.webp",
+        "el07112-b0-2-960.webp"
+      ]
+    },
+    "kl00990-b0-010": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/KL00990-B0-010.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/diamond-riviera-necklace"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "kl00990-b0-010-1600.webp",
+        "kl00990-b0-010-2400.webp",
+        "kl00990-b0-010-480.webp",
+        "kl00990-b0-010-960.webp"
+      ]
+    },
+    "kl01017-y0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/KL01017-Y0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/lumiere-royale-diamond-necklace"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "kl01017-y0-1600.webp",
+        "kl01017-y0-2400.webp",
+        "kl01017-y0-480.webp",
+        "kl01017-y0-960.webp"
+      ]
+    },
+    "kp01152-k0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/KP01152-K0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/essence-diamond-stud-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "kp01152-k0-1600.webp",
+        "kp01152-k0-2400.webp",
+        "kp01152-k0-480.webp",
+        "kp01152-k0-960.webp"
+      ]
+    },
+    "kp01152-k0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/KP01152-K0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/essence-diamond-stud-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "kp01152-k0-2-1600.webp",
+        "kp01152-k0-2-2400.webp",
+        "kp01152-k0-2-480.webp",
+        "kp01152-k0-2-960.webp"
+      ]
+    },
+    "kp02017-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/KP02017-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/florea-diamond-stud-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "kp02017-b0-1600.webp",
+        "kp02017-b0-2400.webp",
+        "kp02017-b0-480.webp",
+        "kp02017-b0-960.webp"
+      ]
+    },
+    "kp02017-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/KP02017-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/florea-diamond-stud-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "kp02017-b0-2-1600.webp",
+        "kp02017-b0-2-2400.webp",
+        "kp02017-b0-2-480.webp",
+        "kp02017-b0-2-960.webp"
+      ]
+    },
+    "kp03249-y0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/KP03249-Y0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/teardrop-diamond-stud-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "kp03249-y0-1600.webp",
+        "kp03249-y0-2400.webp",
+        "kp03249-y0-480.webp",
+        "kp03249-y0-960.webp"
+      ]
+    },
+    "kp03249-y0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/KP03249-Y0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/teardrop-diamond-stud-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "kp03249-y0-2-1600.webp",
+        "kp03249-y0-2-2400.webp",
+        "kp03249-y0-2-480.webp",
+        "kp03249-y0-2-960.webp"
+      ]
+    },
+    "kp03449-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/KP03449-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/kp03449-b0"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "kp03449-b0-1600.webp",
+        "kp03449-b0-2400.webp",
+        "kp03449-b0-480.webp",
+        "kp03449-b0-960.webp"
+      ]
+    },
+    "kp03449-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/KP03449-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/kp03449-b0"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "kp03449-b0-2-1600.webp",
+        "kp03449-b0-2-2400.webp",
+        "kp03449-b0-2-480.webp",
+        "kp03449-b0-2-960.webp"
+      ]
+    },
+    "kp03463-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/KP03463-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/halo-dangle-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "kp03463-b0-1600.webp",
+        "kp03463-b0-2400.webp",
+        "kp03463-b0-480.webp",
+        "kp03463-b0-960.webp"
+      ]
+    },
+    "kp03463-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/KP03463-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/halo-dangle-earrings"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "kp03463-b0-2-1600.webp",
+        "kp03463-b0-2-2400.webp",
+        "kp03463-b0-2-480.webp",
+        "kp03463-b0-2-960.webp"
+      ]
+    },
+    "pamp-gold-fortuna-1oz-obv": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/pamp-gold-fortuna-1oz-obv.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-10-tola-gold-bar-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "pamp-gold-fortuna-1oz-obv-1600.webp",
+        "pamp-gold-fortuna-1oz-obv-2400.webp",
+        "pamp-gold-fortuna-1oz-obv-480.webp",
+        "pamp-gold-fortuna-1oz-obv-960.webp"
+      ]
+    },
+    "pamp-gold-fortuna-1oz-rev": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/pamp-gold-fortuna-1oz-rev.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-100-grams-gold-bar-lady-fortuna™-gold-minted-bar-100g-copy",
+        "https://www.irisdiamonds.ae/products/pamp-250-grams-gold-bar-llady-fortuna™-gold-minted-bar-250g-copy",
+        "https://www.irisdiamonds.ae/products/pamp-10-tola-gold-bar-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "pamp-gold-fortuna-1oz-rev-1600.webp",
+        "pamp-gold-fortuna-1oz-rev-2400.webp",
+        "pamp-gold-fortuna-1oz-rev-480.webp",
+        "pamp-gold-fortuna-1oz-rev-960.webp"
+      ]
+    },
+    "pamp-gold-fortuna-1oz-rev-7cd70151-46e3-4ba6-bd79-7b2bdf7cd39d": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/pamp-gold-fortuna-1oz-rev_7cd70151-46e3-4ba6-bd79-7b2bdf7cd39d.png",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pamp-20-grams-gold-bar-lady-fortuna™-gold-minted-bar-20g-copy",
+        "https://www.irisdiamonds.ae/products/pamp-2-5-grams-gold-bar-lady-fortuna™-gold-minted-bar-2-5g-copy",
+        "https://www.irisdiamonds.ae/products/pamp-10-grams-gold-bar-lady-fortuna™-gold-minted-bar-10g-copy",
+        "https://www.irisdiamonds.ae/products/pamp-1-2-ounces-gold-bar-lady-fortuna™-gold-minted-bar-1-2-oz-copy"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "pamp-gold-fortuna-1oz-rev-7cd70151-46e3-4ba6-bd79-7b2bdf7cd39d-1600.webp",
+        "pamp-gold-fortuna-1oz-rev-7cd70151-46e3-4ba6-bd79-7b2bdf7cd39d-2400.webp",
+        "pamp-gold-fortuna-1oz-rev-7cd70151-46e3-4ba6-bd79-7b2bdf7cd39d-480.webp",
+        "pamp-gold-fortuna-1oz-rev-7cd70151-46e3-4ba6-bd79-7b2bdf7cd39d-960.webp"
+      ]
+    },
+    "tk09161-b0-100": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/TK09161-B0-100.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/solitaire-diamond-pendant-necklace"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "tk09161-b0-100-1600.webp",
+        "tk09161-b0-100-2400.webp",
+        "tk09161-b0-100-480.webp",
+        "tk09161-b0-100-960.webp"
+      ]
+    },
+    "tk09161-y0-100": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/TK09161-Y0-100.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/solitaire-diamond-pendant-necklace-1"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "tk09161-y0-100-1600.webp",
+        "tk09161-y0-100-2400.webp",
+        "tk09161-y0-100-480.webp",
+        "tk09161-y0-100-960.webp"
+      ]
+    },
+    "tk12374-y0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/TK12374-Y0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/luna-brilliance-diamond-necklace"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "tk12374-y0-1600.webp",
+        "tk12374-y0-2400.webp",
+        "tk12374-y0-480.webp",
+        "tk12374-y0-960.webp"
+      ]
+    },
+    "yz04716-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ04716-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/majesty-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz04716-b0-1600.webp",
+        "yz04716-b0-2400.webp",
+        "yz04716-b0-480.webp",
+        "yz04716-b0-960.webp"
+      ]
+    },
+    "yz04716-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ04716-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/majesty-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz04716-b0-2-1600.webp",
+        "yz04716-b0-2-2400.webp",
+        "yz04716-b0-2-480.webp",
+        "yz04716-b0-2-960.webp"
+      ]
+    },
+    "yz04716-k0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ04716-K0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/majesty-diamond-ring-1"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz04716-k0-1600.webp",
+        "yz04716-k0-2400.webp",
+        "yz04716-k0-480.webp",
+        "yz04716-k0-960.webp"
+      ]
+    },
+    "yz04716-k0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ04716-K0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/majesty-diamond-ring-1"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz04716-k0-2-1600.webp",
+        "yz04716-k0-2-2400.webp",
+        "yz04716-k0-2-480.webp",
+        "yz04716-k0-2-960.webp"
+      ]
+    },
+    "yz04716-y0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ04716-Y0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/majesty-diamond-ring-2"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz04716-y0-1600.webp",
+        "yz04716-y0-2400.webp",
+        "yz04716-y0-480.webp",
+        "yz04716-y0-960.webp"
+      ]
+    },
+    "yz04716-y0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ04716-Y0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/majesty-diamond-ring-2"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz04716-y0-2-1600.webp",
+        "yz04716-y0-2-2400.webp",
+        "yz04716-y0-2-480.webp",
+        "yz04716-y0-2-960.webp"
+      ]
+    },
+    "yz05367-k0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ05367-K0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/round-brilliant-solitaire-diamond-ring-2"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz05367-k0-1600.webp",
+        "yz05367-k0-2400.webp",
+        "yz05367-k0-480.webp",
+        "yz05367-k0-960.webp"
+      ]
+    },
+    "yz05367-k0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ05367-K0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/round-brilliant-solitaire-diamond-ring-2"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz05367-k0-2-1600.webp",
+        "yz05367-k0-2-2400.webp",
+        "yz05367-k0-2-480.webp",
+        "yz05367-k0-2-960.webp"
+      ]
+    },
+    "yz05550-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ05550-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/round-brilliant-solitaire-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz05550-b0-1600.webp",
+        "yz05550-b0-2400.webp",
+        "yz05550-b0-480.webp",
+        "yz05550-b0-960.webp"
+      ]
+    },
+    "yz05550-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ05550-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/round-brilliant-solitaire-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz05550-b0-2-1600.webp",
+        "yz05550-b0-2-2400.webp",
+        "yz05550-b0-2-480.webp",
+        "yz05550-b0-2-960.webp"
+      ]
+    },
+    "yz05550-y0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ05550-Y0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/round-brilliant-solitaire-diamond-ring-3",
+        "https://www.irisdiamonds.ae/products/round-brilliant-solitaire-diamond-ring-1"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz05550-y0-1600.webp",
+        "yz05550-y0-2400.webp",
+        "yz05550-y0-480.webp",
+        "yz05550-y0-960.webp"
+      ]
+    },
+    "yz05550-y0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ05550-Y0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/round-brilliant-solitaire-diamond-ring-3",
+        "https://www.irisdiamonds.ae/products/round-brilliant-solitaire-diamond-ring-1"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz05550-y0-2-1600.webp",
+        "yz05550-y0-2-2400.webp",
+        "yz05550-y0-2-480.webp",
+        "yz05550-y0-2-960.webp"
+      ]
+    },
+    "yz05673-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ05673-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/florea-whisper-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz05673-b0-1600.webp",
+        "yz05673-b0-2400.webp",
+        "yz05673-b0-480.webp",
+        "yz05673-b0-960.webp"
+      ]
+    },
+    "yz05673-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ05673-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/florea-whisper-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz05673-b0-2-1600.webp",
+        "yz05673-b0-2-2400.webp",
+        "yz05673-b0-2-480.webp",
+        "yz05673-b0-2-960.webp"
+      ]
+    },
+    "yz06625-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ06625-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eternelle-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz06625-b0-1600.webp",
+        "yz06625-b0-2400.webp",
+        "yz06625-b0-480.webp",
+        "yz06625-b0-960.webp"
+      ]
+    },
+    "yz06625-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ06625-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eternelle-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz06625-b0-2-1600.webp",
+        "yz06625-b0-2-2400.webp",
+        "yz06625-b0-2-480.webp",
+        "yz06625-b0-2-960.webp"
+      ]
+    },
+    "yz06625-k0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ06625-K0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eternelle-diamond-ring-1"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz06625-k0-1600.webp",
+        "yz06625-k0-2400.webp",
+        "yz06625-k0-480.webp",
+        "yz06625-k0-960.webp"
+      ]
+    },
+    "yz06625-k0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ06625-K0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eternelle-diamond-ring-1"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz06625-k0-2-1600.webp",
+        "yz06625-k0-2-2400.webp",
+        "yz06625-k0-2-480.webp",
+        "yz06625-k0-2-960.webp"
+      ]
+    },
+    "yz06625-y0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ06625-Y0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eternelle-diamond-ring-2"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz06625-y0-1600.webp",
+        "yz06625-y0-2400.webp",
+        "yz06625-y0-480.webp",
+        "yz06625-y0-960.webp"
+      ]
+    },
+    "yz06625-y0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ06625-Y0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eternelle-diamond-ring-2"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz06625-y0-2-1600.webp",
+        "yz06625-y0-2-2400.webp",
+        "yz06625-y0-2-480.webp",
+        "yz06625-y0-2-960.webp"
+      ]
+    },
+    "yz06647-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ06647-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/elysian-diamond-band-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz06647-b0-1600.webp",
+        "yz06647-b0-2400.webp",
+        "yz06647-b0-480.webp",
+        "yz06647-b0-960.webp"
+      ]
+    },
+    "yz06647-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ06647-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/elysian-diamond-band-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz06647-b0-2-1600.webp",
+        "yz06647-b0-2-2400.webp",
+        "yz06647-b0-2-480.webp",
+        "yz06647-b0-2-960.webp"
+      ]
+    },
+    "yz07055-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ07055-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/regalia-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz07055-b0-1600.webp",
+        "yz07055-b0-2400.webp",
+        "yz07055-b0-480.webp",
+        "yz07055-b0-960.webp"
+      ]
+    },
+    "yz07055-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ07055-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/regalia-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz07055-b0-2-1600.webp",
+        "yz07055-b0-2-2400.webp",
+        "yz07055-b0-2-480.webp",
+        "yz07055-b0-2-960.webp"
+      ]
+    },
+    "yz07172-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ07172-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/pear-shaped-halo-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz07172-b0-1600.webp",
+        "yz07172-b0-2400.webp",
+        "yz07172-b0-480.webp",
+        "yz07172-b0-960.webp"
+      ]
+    },
+    "yz07507-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ07507-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eclat-serpentin-diamond-ring-1"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz07507-b0-1600.webp",
+        "yz07507-b0-2400.webp",
+        "yz07507-b0-480.webp",
+        "yz07507-b0-960.webp"
+      ]
+    },
+    "yz07507-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ07507-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eclat-serpentin-diamond-ring-1"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz07507-b0-2-1600.webp",
+        "yz07507-b0-2-2400.webp",
+        "yz07507-b0-2-480.webp",
+        "yz07507-b0-2-960.webp"
+      ]
+    },
+    "yz07507-y0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ07507-Y0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eclat-serpentin-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz07507-y0-1600.webp",
+        "yz07507-y0-2400.webp",
+        "yz07507-y0-480.webp",
+        "yz07507-y0-960.webp"
+      ]
+    },
+    "yz07507-y0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ07507-Y0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eclat-serpentin-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz07507-y0-2-1600.webp",
+        "yz07507-y0-2-2400.webp",
+        "yz07507-y0-2-480.webp",
+        "yz07507-y0-2-960.webp"
+      ]
+    },
+    "yz07760-yb-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ07760-YB-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/aurelia-bloom-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz07760-yb-2-1600.webp",
+        "yz07760-yb-2-2400.webp",
+        "yz07760-yb-2-480.webp",
+        "yz07760-yb-2-960.webp"
+      ]
+    },
+    "yz07903-k0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ07903-K0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/duo-lumiere-diamond-ring-1"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz07903-k0-1600.webp",
+        "yz07903-k0-2400.webp",
+        "yz07903-k0-480.webp",
+        "yz07903-k0-960.webp"
+      ]
+    },
+    "yz07903-k0-2-f314011f-cb49-452e-a2a7-4bb5bba1cf01": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ07903-K0-2_f314011f-cb49-452e-a2a7-4bb5bba1cf01.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/duo-lumiere-diamond-ring-1"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz07903-k0-2-f314011f-cb49-452e-a2a7-4bb5bba1cf01-1600.webp",
+        "yz07903-k0-2-f314011f-cb49-452e-a2a7-4bb5bba1cf01-2400.webp",
+        "yz07903-k0-2-f314011f-cb49-452e-a2a7-4bb5bba1cf01-480.webp",
+        "yz07903-k0-2-f314011f-cb49-452e-a2a7-4bb5bba1cf01-960.webp"
+      ]
+    },
+    "yz07904-y0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ07904-Y0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/duo-lumiere-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz07904-y0-1600.webp",
+        "yz07904-y0-2400.webp",
+        "yz07904-y0-480.webp",
+        "yz07904-y0-960.webp"
+      ]
+    },
+    "yz07904-y0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ07904-Y0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/duo-lumiere-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz07904-y0-2-1600.webp",
+        "yz07904-y0-2-2400.webp",
+        "yz07904-y0-2-480.webp",
+        "yz07904-y0-2-960.webp"
+      ]
+    },
+    "yz07989-b0": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ07989-B0.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eclat-curve-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz07989-b0-1600.webp",
+        "yz07989-b0-2400.webp",
+        "yz07989-b0-480.webp",
+        "yz07989-b0-960.webp"
+      ]
+    },
+    "yz07989-b0-2": {
+      "source": "https://cdn.shopify.com/s/files/1/0696/5103/8296/files/YZ07989-B0-2.jpg",
+      "listings": [
+        "https://www.irisdiamonds.ae/products/eclat-curve-diamond-ring"
+      ],
+      "kind": "catalog photograph",
+      "files": [
+        "yz07989-b0-2-1600.webp",
+        "yz07989-b0-2-2400.webp",
+        "yz07989-b0-2-480.webp",
+        "yz07989-b0-2-960.webp"
+      ]
+    }
+  },
+  "ed-shopfront": {
+    "source": "supplied directly for this concept (boutique photograph, 1672x941), 2026-10-01",
+    "listings": [],
+    "kind": "editorial photograph (homepage visit band and boutique page)",
+    "files": [
+      "ed-shopfront-1600.webp",
+      "ed-shopfront-960.webp"
+    ]
+  }
+}
